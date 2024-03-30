@@ -204,23 +204,23 @@ span{
 @keyframes words{
     0%,
     20%{
-        contnet: " youtuber";
+        contnet: "youtuber";
     }
     21%,
     40%{
-        content: " Freelancer";
+        content: "Freelancer";
     }
     41%,
     60%{
-        content: " Graphic designer";
+        content: "Graphic designer";
     }
     61%,
     80%{
-        content:" Web Designer";
+        content:"Web Designer";
     }
     81%,
     100%{
-        content: " video editor";
+        content: "video editor";
     }
 }
 @keyframes typing{
